@@ -1,0 +1,3 @@
+[submodule "Faculty/my-app"]
+	path = Faculty/my-app
+	url = https://github.com/tiwarishubham635/Project.git
